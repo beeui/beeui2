@@ -1,0 +1,18 @@
+{
+  "menus": [
+    {
+      "id": "default",
+      "name": "默认",
+      "open": true,
+      "icon": "viewlist",
+      "pages": [
+        {
+          "id": "test",
+          "name": "test",
+          "icon": "",
+          "code": ""
+        }
+      ]
+    }
+  ]
+}

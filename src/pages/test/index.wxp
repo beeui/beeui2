@@ -1,0 +1,26 @@
+<template>
+  <example title="wxc-test" desc="test">
+
+    <example-demo title="请填写示例名称" desc="请填写示例描述">
+      <demo-default></demo-default>
+    </example-demo>
+
+  </example>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: {
+      'example': '@173/wxc-example',
+      'example-demo': '@173/wxc-example-demo',
+      'example-md': '@173/wxc-example-md',
+      'demo-default': './demos/demo-default'
+    }
+  },
+  data: { }
+}
+</script>
+
+<style>
+</style>

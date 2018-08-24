@@ -1,0 +1,18 @@
+<template>
+  <wxc-test></wxc-test>
+</template>
+
+<script>
+export default {
+  config: {
+    usingComponents: {
+      'wxc-test': '@173/wxc-test'
+    }
+  },
+  data: { },
+  methods: { }
+}
+</script>
+
+<style>
+</style>

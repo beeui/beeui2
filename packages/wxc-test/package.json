@@ -1,0 +1,21 @@
+{
+  "name": "@173/wxc-test",
+  "version": "1.0.0",
+  "description": "test - 小程序组件",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://ued.local.17173.com/gitlab/wxc/beeui/tree/master/packages/wxc-test"
+  },
+  "publishConfig": {
+    "registry": "http://npm.local.17173.com"
+  },
+  "author": "changjianwang@cyou-inc.com",
+  "dependencies": {
+  },
+  "license": "MIT",
+  "minConfig": {
+    "component": true
+  }
+}
